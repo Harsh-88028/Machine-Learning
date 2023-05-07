@@ -5,8 +5,8 @@
 hypothesis based on a given set of training data samples. Read the training data
 from a .CSV file. (use enjoysport.csv)
 2. Implement email spam classification using naive Bayes algorithm.
-3. Implement Linear regression to predict house prices using Least squared method. (use  homeprice_uni.csv)
-3. Implement Linear regression to predict house prices using gradient descent algorithm. (use  homeprice_uni.csv)
+3(a). Implement Linear regression to predict house prices using Least squared method. (use  homeprice_uni.csv)
+3(b). Implement Linear regression to predict house prices using gradient descent algorithm. (use  homeprice_uni.csv)
 4. Implement Linear regression to predict house prices based on multiple variables. (use  homeprice_multivariate. csv)
 5. Implement  Linear regression to predict house prices based on multiple variables using regularization techniques and explain how regularisation overcome overfitting problem. (use inbuilt dataset boston-  from sklearn.datasets import load_boston)
 6. Implement titanic survival prediction using Naive Bayes algorithm.
